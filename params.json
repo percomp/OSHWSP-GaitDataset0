@@ -1,6 +1,6 @@
 {
   "name": "Oshwsp-gaitdataset0",
   "tagline": "Small dataset testing the OSHWSP platform for gait analysis.",
-  "body": "## Description\r\nThis dataset includes the sampling data of twelve subjects: six female and six male. Each subject was asked to walk at his or her own preferred speed through a straight course in two occasions under the same conditions. The length of the course was approximately 20 meters.\r\n\r\n",
+  "body": "## Description\r\nThis dataset includes the sampling data of twelve subjects: six female and six male. Each subject was asked to walk at his or her own preferred speed through a straight course in two occasions under the same conditions. The length of the course was approximately 20 meters.\r\n\r\nThe platform used to acquire the data is available at http://percomp.github.io/oshwsp",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
